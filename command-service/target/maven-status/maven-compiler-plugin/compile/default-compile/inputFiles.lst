@@ -1,0 +1,16 @@
+C:\GPP_TASKS1\cqrs-ecommerce\command-service\src\main\java\com\example\command\OrderService.java
+C:\GPP_TASKS1\cqrs-ecommerce\command-service\src\main\java\com\example\command\ProductService.java
+C:\GPP_TASKS1\cqrs-ecommerce\command-service\src\main\java\com\example\command\OrderRepository.java
+C:\GPP_TASKS1\cqrs-ecommerce\command-service\src\main\java\com\example\command\dto\OrderRequest.java
+C:\GPP_TASKS1\cqrs-ecommerce\command-service\src\main\java\com\example\command\events\ProductCreatedEvent.java
+C:\GPP_TASKS1\cqrs-ecommerce\command-service\src\main\java\com\example\command\KafkaEventProducer.java
+C:\GPP_TASKS1\cqrs-ecommerce\command-service\src\main\java\com\example\command\ProductRepository.java
+C:\GPP_TASKS1\cqrs-ecommerce\command-service\src\main\java\com\example\command\CommandServiceApplication.java
+C:\GPP_TASKS1\cqrs-ecommerce\command-service\src\main\java\com\example\command\events\OrderCreatedEvent.java
+C:\GPP_TASKS1\cqrs-ecommerce\command-service\src\main\java\com\example\command\Order.java
+C:\GPP_TASKS1\cqrs-ecommerce\command-service\src\main\java\com\example\command\OrderController.java
+C:\GPP_TASKS1\cqrs-ecommerce\command-service\src\main\java\com\example\command\dto\OrderStatusUpdateRequest.java
+C:\GPP_TASKS1\cqrs-ecommerce\command-service\src\main\java\com\example\command\events\OrderUpdatedEvent.java
+C:\GPP_TASKS1\cqrs-ecommerce\command-service\src\main\java\com\example\command\ProductController.java
+C:\GPP_TASKS1\cqrs-ecommerce\command-service\src\main\java\com\example\command\Product.java
+C:\GPP_TASKS1\cqrs-ecommerce\command-service\src\main\java\com\example\command\dto\ProductRequest.java

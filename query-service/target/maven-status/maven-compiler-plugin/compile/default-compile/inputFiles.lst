@@ -1,0 +1,9 @@
+C:\GPP_TASKS1\cqrs-ecommerce\query-service\src\main\java\com\example\query\model\GenericEvent.java
+C:\GPP_TASKS1\cqrs-ecommerce\query-service\src\main\java\com\example\query\AnalyticsController.java
+C:\GPP_TASKS1\cqrs-ecommerce\query-service\src\main\java\com\example\query\model\OrderItem.java
+C:\GPP_TASKS1\cqrs-ecommerce\query-service\src\main\java\com\example\query\model\ProductEventPayload.java
+C:\GPP_TASKS1\cqrs-ecommerce\query-service\src\main\java\com\example\query\KafkaStreamsRunner.java
+C:\GPP_TASKS1\cqrs-ecommerce\query-service\src\main\java\com\example\query\StreamsConfig.java
+C:\GPP_TASKS1\cqrs-ecommerce\query-service\src\main\java\com\example\query\QueryServiceApplication.java
+C:\GPP_TASKS1\cqrs-ecommerce\query-service\src\main\java\com\example\query\model\OrderUpdatedPayload.java
+C:\GPP_TASKS1\cqrs-ecommerce\query-service\src\main\java\com\example\query\model\OrderCreatedPayload.java
