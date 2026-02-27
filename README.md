@@ -155,8 +155,8 @@ json
 curl -X PUT "http://localhost:8080/api/orders/1/status" \
   -H "Content-Type: application/json" \
   -d '{"status": "SHIPPED"}'
-This updates the order status in Postgres and emits an OrderStatusUpdated event to Kafka (if implemented in your command service).[file:118][web:127]
 ```
+This updates the order status in Postgres and emits an OrderStatusUpdated event to Kafka (if implemented in your command service).[file:118][web:127]
 
 4. Product sales analytics (Query Service)
 Query total sales for a given product id (e.g. 1):
